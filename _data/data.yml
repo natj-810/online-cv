@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: njoly2@bigpond.com
+  phone: 0410 341 744
   timezone: Australia/Brisbane # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: https://www.linkedin.com/in/natalie-joly-85975412/
+  xing: 
+  github: 
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -41,31 +41,31 @@ sidebar:
       level: Native
 
     - idiom: French
-      level: Professional
+      level: Conversational
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: 
+      level: 
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Music and arts
       link:
 
 
-    - item: Snowboarding
+    - item: Interest2
       link:
 
 
-    - item: Cooking
+    - item: Interest3
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
+    I have been in the Learning & Development field since 1999, focussing primarily on Adult Educaiton.
+    More recently I have focussed in leardership roles within the eLearning and digital design space.
     Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
@@ -73,8 +73,8 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
+  - degree: Bachelor in Education (Adult Education)
+    university: University of Technology Sydney
     time: 2011 - 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
