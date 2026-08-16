@@ -61,13 +61,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I have been in the Learning & Development - Adult Education field since 1999.
+    I have been in the Learning & Development Adult Education field since 1999.
     More recently I have focussed in leadership roles within the eLearning and digital design space.
     Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: Bachelor in Education (Adult Education)
+  - degree: Bachelor in Education, Adult Education
     university: University of Technology Sydney
     time: 
     details: |
@@ -78,8 +78,8 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: TAE40116 Certificate IV in Training & Assessment
-    university: Pinnacle Safety & Training
+  - degree: TAE40116 Certificate IV in Training and Assessment
+    university: Pinnacle Safety and Training
     time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -103,7 +103,7 @@ education:
         - Bullet point
         
  - degree: Diploma of Management
-    university: Work Savvy Training / J2S Group
+    university: Work Savvy Training, J2S Group
     time: 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
